@@ -1,4 +1,4 @@
-# ToesManager
+# Password Managers
 
 A password manager and generator!
 
